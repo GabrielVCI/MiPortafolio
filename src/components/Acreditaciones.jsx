@@ -3,7 +3,7 @@ import { FaDownload, FaEye } from "react-icons/fa";
 export default function Acreditaciones() {
   // Lista de acreditaciones con título y ruta del PDF
   const acreditaciones = [
-    { titulo: "Mi Curriculum Vitae", archivo: "/pdfs/Certificado-bachiller.pdf" },
+    { titulo: "Mi Curriculum Vitae", archivo: "/pdfs/CV-personal-una-pagina.pdf" },
     { titulo: "Certificación ITLA", archivo: "/pdfs/Certificado-ITLA.pdf" },
     { titulo: "Certificado Bachiller", archivo: "/pdfs/Certificado-bachiller.pdf" },
     { titulo: "Certificado .NET Core", archivo: "/pdfs/Certificado-Asp.net.pdf" },
